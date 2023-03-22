@@ -1,3 +1,7 @@
+hckpass = "abc123";
+
+hckatmpt = prompt("client.pass");
+
 hckname = prompt("client.name");
 
 const CLIENT_ID = 'hWmT5ZuGe51IgiMD';
