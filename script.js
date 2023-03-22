@@ -5,7 +5,7 @@ hckatmpt = prompt("client.password");
 if (hckatmpt==hckpass) {
 } else {
   while (2==2) {
-    alert("Get Good Nerd")
+    alert("Get Good Nerd");
   }
 }
 
