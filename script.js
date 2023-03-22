@@ -1,8 +1,8 @@
 hckpass = "ggscrubz";
 
-hckatmpt = prompt("client.pass");
+hckatmpt = prompt("Password");
 
-hckname = prompt("client.name");
+hckname = prompt("Name");
 
 const CLIENT_ID = 'hWmT5ZuGe51IgiMD';
 
