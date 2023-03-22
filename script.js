@@ -2,13 +2,6 @@ hckpass = "securitykey";
 
 hckatmpt = prompt("client.password");
 
-if (hckatmpt==hckpass) {
-} else {
-  while (2==2) {
-    alert("Get Good Nerd");
-  }
-}
-
 hckname = prompt("client.name");
 
 const CLIENT_ID = 'hWmT5ZuGe51IgiMD';
