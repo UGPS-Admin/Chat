@@ -1,4 +1,4 @@
-hckpass = "abc123";
+hckpass = "ggscrubz";
 
 hckatmpt = prompt("client.pass");
 
