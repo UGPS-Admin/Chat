@@ -1,3 +1,14 @@
+hckpass = "securitykey";
+
+hckatmpt = prompt("client.password");
+
+if (hckatmpt==hckpass) {
+} else {
+  while (2==2) {
+    alert("Get Good Nerd")
+  }
+}
+
 hckname = prompt("client.name");
 
 const CLIENT_ID = 'hWmT5ZuGe51IgiMD';
@@ -64,7 +75,8 @@ function getRandomName() {
 }
 
 function getRandomColor() {
-  return '#' + Math.floor(Math.random() * 0xFFFFFF).toString(16);
+  return #FF00FF
+  // return '#' + Math.floor(Math.random() * 0xFFFFFF).toString(16);
 }
 
 //------------- DOM STUFF
